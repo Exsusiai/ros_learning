@@ -1,0 +1,8 @@
+prefix=/home/jason/catkin_ws/devel
+
+Name: eth_ros_ex1
+Description: Description of eth_ros_ex1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
