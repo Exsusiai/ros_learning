@@ -1,2 +1,2 @@
-beginner_tutorials:eth_ros_ex1:teleop_twist_keyboard
+beginner_tutorials:eth_ros/eth_ros_ex1:eth_ros/eth_ros_ex2
 -DCATKIN_DEVEL_PREFIX=/home/jason/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jason/catkin_ws/install -G Unix Makefiles
